@@ -16,9 +16,9 @@ tags:
 {% include images/figure.html
   class="right"
   width="40%"
-  caption="Dish with Apollo and Daphne [Source](https://www.metmuseum.org/art/collection/search/53630)"
-  alt-text="A dish from the Second Century B.C depicting the mythical figures Apollo and Daphne"
-  image-path="images/dionsyian-imagery-two.jpg"
+  caption="Camel model with Dionysian imagery [Source](https://www.metmuseum.org/art/collection/search/53630)"
+  alt-text="Image of the camel model found in a Northern Chinese tomb"
+  image-path="images/dionysian-imagery-two.jpg"
 %}
 
 This object provides an important link between the significance of animals on the silk road and the spread of Greek art influence into Asia, with this object found within a grave in Northern China and having Dionysian or Christain symbolism on the side of it. The item was likley created in Eastern Central Asia.[^1]
