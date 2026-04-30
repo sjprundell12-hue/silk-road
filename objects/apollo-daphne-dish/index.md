@@ -52,7 +52,5 @@ The depiction of these characters in the context of love demonstrates cultural u
 ## Bibliography
 
 - 'Dish with Apollo and Daphne', [metropolitan musuem of art](https://www.metmuseum.org/art/collection/search/38093).
-
 - Hibbart, Howard. 2026. “Apollo and Daphne | Sculpture by Bernini.”, [encyclopedia britannica](https://www.britannica.com/topic/Apollo-and-Daphne). 2026.
-
 - Nethercut, William R. 1979. “Daphne and Apollo: A Dynamic Encounter.” The Classical Journal 74 (4): 333–47. https://doi.org/10.2307/3297143.

@@ -4,7 +4,7 @@ title: Greco-Buddhist Art
 layout: base
 header-image: images/ota-gate-khiva2.jpg
 thumbnail: images/ota-gate-demo-gray.png
-summary: Greco-Buddhist art is an important representation of cultural mixing on the silk road, Greek influence in the South Asian area conme from the conquests of Alexander the Great and his successors.
+summary: Greco-Buddhist art is an important representation of cultural mixing on the silk road, Greek influence in the South Asian area come from the conquests of Alexander the Great and his successors.
 ---
 
 Greco-Buddhist Art 
