@@ -2,8 +2,8 @@
 author: Sam Rundell
 title: Camel with Dionysian Imagery on its Saddle Bags
 layout: base
-header-image: /silk-road/objects/dionysian-imagery-camel/images/dionysian-imagery-camel.jpg
-thumbnail: /silk-road/objects/dionysian-imagery-camel/images/dionysian-imagery-camel.jpg
+header-image: images/dionysian-imagery-camel.jpg
+thumbnail: images/dionysian-imagery-camel.jpg
 summary: This figure represents a camel with the saddle bags on the side of the animal potentially depicting a Christian scene with Greek influences being seen in the surrounding pillars. 
 geo: [34.2658, 108.9541]
 placename: Unknown, likley Northen Chinese tomb. 
@@ -13,9 +13,17 @@ tags:
 
 # Camel with Dionysian Imagery on its Saddle Bags
 
+{% include images/figure.html
+  class="right"
+  width="40%"
+  caption="Dish with Apollo and Daphne [Source](https://www.metmuseum.org/art/collection/search/53630)"
+  alt-text="A dish from the Second Century B.C depicting the mythical figures Apollo and Daphne"
+  image-path="images/dionsyian-imagery-two.jpg"
+%}
+
 This object provides an important link between the significance of animals on the silk road and the spread of Greek art influence into Asia, with this object found within a grave in Northern China and having Dionysian or Christain symbolism on the side of it. The item was likley created in Eastern Central Asia.[^1]
 
-[1]: MET museum, 2026.
+[^1]: MET museum, 2026.
 
 The image on the side of the Camel shows a man who is being carried by two others surrounded by two columns and other decorative pieces. The identity of the man is not known but it has been theorised that he is either the Greek god Dionysus, or as a depiction of Christ, both of which are extremely interesting to consider and are linked to Greek culture. 
 
@@ -26,7 +34,7 @@ Animals played a very important role in the silk road. This object depicts a cam
 
 Transportation played a vital role in the silk road economy and animals such as camels were required to transport these resources from one side of the road to another, this importance is why figures such as this one were created, celebrating the importance of these animals on all silk road cultures.
 
-[2]: Wen 2023, 78.
+[^2]: Wen 2023, 78.
 {% include images/figure.html
 class="right"
 width="48%"
@@ -37,6 +45,8 @@ image-path="images/han-coin-violet.png"
 ## Christian? Hellenic? A Bit of Both?
 
 The symbolism on the side of this object can be debated and has been interpreted in different ways by different people since its discovery. The main interpretations include the main figure being the Greek god Dionysus a son of Zeus, god of wine, madness and fertility or to represent Jesus Christ after coming off the cross.[^3] 
+
+[^3]: 
 
 The Greek mythological links on this object would demonstrate the passing of mythology from Greece into Central and Eastern asia, showing the level of storytelling that occurred in this area from the Greek armies and settlers after the campaigns of Alexander. 
 
