@@ -2,8 +2,8 @@
 author: Sam Rundell
 title: Dish with Apollo and Daphne 
 layout: base
-header-image: /silk-road/objects/apollo-daphne-dish/images/apollo-and-daphne-dish.jpg
-thumbnail: /silk-road/objects/apollo-daphne-dish/images/apollo-and-daphne-dish.jpg
+header-image: images/apollo-and-daphne-dish.jpg
+thumbnail: images/apollo-and-daphne-dish.jpg
 summary: This dish from the Second Century B.C depicts the Greek mythological characters Apollo and Daphne
 geo: [33.757669, 72.829332]
 placename: Sirkap (Taxila)
@@ -18,7 +18,7 @@ tags:
   width="40%"
   caption="Dish with Apollo and Daphne [Source](https://www.metmuseum.org/art/collection/search/38093)"
   alt-text="A dish from the Second Century B.C depicting the mythical figures Apollo and Daphne"
-  image-path="/silk-road/objects/apollo-daphne-dish/images/apollo-and-daphne-dish.jpg"
+  image-path="images/apollo-and-daphne-dish.jpg"
 %}
 
 This dish serves as important evidence towards the mixture of Greek and Buddhist culture through the form of art and craftsmanship. With the figures on the dish representing the Greek mythological characters Apollo and Daphne, these characters being represented on a dish found in Pakistan may seem bizarre, however, the cultural exchange present in this area is a result of the Alexandrian conquests which led to a spread of foreign mythology as seen in this dish.
@@ -41,7 +41,7 @@ Many other aspects of this object such as the characters' clothes, positions and
 
 While the mystery of some of the finer details on the object remain, the important themes can still be extracted from the piece, Greek influence is present in the object and the idea of certain mysteries makes the object even more interesting. 
 
-{% include images/figure.html class="left" width="30%" caption="This is a scuplture of the two characters, made by Gian Lorenzo Bernini in 1625. [Source](https://www.britannica.com/biography/Gian-Lorenzo-Bernini)" image-path="/silk-road/objects/apollo-daphne-dish/images/apollo-and-daphne-sculpture.webp" %}
+{% include images/figure.html class="left" width="30%" caption="This is a scuplture of the two characters, made by Gian Lorenzo Bernini in 1625. [Source](https://www.britannica.com/biography/Gian-Lorenzo-Bernini)" image-path="images/apollo-and-daphne-sculpture.webp" %}
 
 ## Love and Understanding it
 
