@@ -16,7 +16,7 @@ tags:
 {% include images/figure.html
   class="right"
   width="40%"
-  caption="Dish with Apollo and Daphne [Source](https://www.metmuseum.org/art/collection/search/38093)"
+  caption="Dish with Apollo and Daphne. [Source](https://www.metmuseum.org/art/collection/search/38093)"
   alt-text="A dish from the Second Century B.C depicting the mythical figures Apollo and Daphne"
   image-path="images/apollo-and-daphne-dish.jpg"
 %}

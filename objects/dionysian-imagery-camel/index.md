@@ -2,7 +2,7 @@
 author: Sam Rundell
 title: Camel with Dionysian Imagery on its Saddle Bags
 layout: base
-header-image: images/dionysian-imagery-camel.jpg
+header-image: images/camel-banner.jpg
 thumbnail: images/dionysian-imagery-camel.jpg
 summary: This figure represents a camel with the saddle bags on the side of the animal potentially depicting a Christian scene with Greek influences being seen in the surrounding pillars. 
 geo: [34.2658, 108.9541]
@@ -16,7 +16,7 @@ tags:
 {% include images/figure.html
   class="right"
   width="40%"
-  caption="Camel model with Dionysian imagery [Source](https://www.metmuseum.org/art/collection/search/53630)"
+  caption="Camel model with Dionysian imagery. [Source](https://www.metmuseum.org/art/collection/search/53630)"
   alt-text="Image of the camel model found in a Northern Chinese tomb"
   image-path="images/dionysian-imagery-camel-two.jpg"
 %}
@@ -30,28 +30,27 @@ The image on the side of the Camel shows a man who is being carried by two other
 
 ## The Importance of the Animal
 
-Animals played a very important role in the silk road. This object depicts a camel, an animal which was used mainly for transporting goods within the silk road economy, what these animals trasnported along the road ranged from things such as food to important luxury items such as silk. These camels were so useful due to their strength (able to carry about 400 kilograms)[^2] as well as their endurance being able to go for many days without drinking water or eating due to the fat being stored on their backs. 
+Animals played a very important role in the silk road. This object depicts a camel, an animal which was used mainly for transporting goods within the silk road economy, what these animals transported along the road ranged from things such as food to important luxury items such as silk. These camels were so useful due to their strength (able to carry about 400 kilograms)[^2] as well as their endurance being able to go for many days without drinking water or eating due to the fat being stored on their backs. 
 
 Transportation played a vital role in the silk road economy and animals such as camels were required to transport these resources from one side of the road to another, this importance is why figures such as this one were created, celebrating the importance of these animals on all silk road cultures.
 
-[^2]: Wen 2023, 78.
-{% include images/figure.html
-class="right"
-width="48%"
-caption=". [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-violet.png"
-%}
-
 ## Christian? Hellenic? A Bit of Both?
 
-The symbolism on the side of this object can be debated and has been interpreted in different ways by different people since its discovery. The main interpretations include the main figure being the Greek god Dionysus a son of Zeus, god of wine, madness and fertility or to represent Jesus Christ after coming off the cross.[^3] 
+The symbolism on the side of this object can be debated and has been interpreted in different ways by different people since its discovery. The main interpretations include the main figure being the Greek God Dionysus a son of Zeus, God of wine, madness and fertility or to represent Jesus Christ after coming off the cross.[^3] 
 
 [^3]: 
 
-The Greek mythological links on this object would demonstrate the passing of mythology from Greece into Central and Eastern asia, showing the level of storytelling that occurred in this area from the Greek armies and settlers after the campaigns of Alexander. 
+The Greek mythological links on this object would demonstrate the passing of mythology from Greece into Central and Eastern Asia, showing the level of storytelling that occurred in this area from the Greek armies and settlers after the campaigns of Alexander. 
+
+{% include images/figure.html
+  class="left"
+  width="40%"
+  caption="A more enhanced image showing the image on the side of the object. [Source](https://www.metmuseum.org/art/collection/search/53630)"
+  alt-text="Image of the camel model found in a Northern Chinese tomb"
+  image-path="images/dionysian-camel-zoom.png"
+%}
 
 Christian links on this object would present us with evidence of religious influence spreading across Eurasia, with a depiction of such an important event in Christianity potentially being shown on the object. This also demonstrates interest of foreign cultures in others' religious practices and attempts at recreation of events that had been described to them. 
-
 
 ## Other Greek Influence on the Object 
 Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
