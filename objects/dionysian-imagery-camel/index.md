@@ -33,7 +33,7 @@ The image on the side of the Camel shows a man who is being carried by two other
 Animals played a very important role in the silk road. This object depicts a camel, an animal which was used mainly for transporting goods within the silk road economy, what these animals transported along the road ranged from things such as food to important luxury items such as silk. These camels were so useful due to their strength (able to carry about 400 kilograms)[^2] as well as their endurance being able to go for many days without drinking water or eating due to the fat being 
 stored on their backs. 
 
-{% include typography/aside.html class="right" text=" Animals played a very important role in the silk road." %}
+{% include typography/aside.html class="right" text=" Animals played a very important role in the story of the silk road." %}
 
 [^2]: Wen 2023, 78.
 
@@ -58,27 +58,12 @@ The Greek mythological links on this object would demonstrate the passing of myt
 Christian links on this object would present us with evidence of religious influence spreading across Eurasia, with a depiction of such an important event in Christianity potentially being shown on the object. This also demonstrates interest of foreign cultures in others' religious practices and attempts at recreation of events that had been described to them. 
 
 ## Other Greek Influence on the Object 
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
-
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
-
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
-
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
-
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
-
+There is more presence of Greek influence in this piece, one of these influences are the columns surrounding the 3 main figures. Important aspects such as architecture will be discussed alongside other objects related to Greco-Buddhism and allows us to understand what important aspects of other cultures people in this area were most interested in. 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- 'Camel with Dionysian imagery on its saddle bags' [metropolitan musuem of art](https://www.metmuseum.org/art/collection/search/53630)
+- Wen, Xin. 2023. The King’s Road. Princeton University Press.
+- Wikimedia. 2013. “Mount of Olives Banner Egyptian Camel Transport.” [Wikimedia.org](https://commons.wikimedia.org/wiki/File:Mount_of_Olives_banner_Egyptian_camel_transport.jpg).
