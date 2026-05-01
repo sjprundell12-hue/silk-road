@@ -60,6 +60,7 @@ Christian links on this object would present us with evidence of religious influ
 ## Other Greek Influence on the Object 
 
 There is more presence of Greek influence in this piece, one of these influences are the columns surrounding the 3 main figures. Important aspects such as architecture will be discussed alongside other objects related to Greco-Buddhism and allows us to understand what important aspects of other cultures people in this area were most interested in. 
+
 ---
 
 ## Bibliography

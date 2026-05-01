@@ -2,7 +2,7 @@
 author: Sam Rundell
 title: Dish with Apollo and Daphne 
 layout: base
-header-image: images/apollo-and-daphne-dish.jpg
+header-image: images/apollo-daphne-banner.jpg
 thumbnail: images/apollo-and-daphne-dish.jpg
 summary: This dish from the Second Century B.C depicts the Greek mythological characters Apollo and Daphne
 geo: [33.757669, 72.829332]
