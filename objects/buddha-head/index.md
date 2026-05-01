@@ -45,7 +45,7 @@ This art form being used also demonstrated the resources that were available to 
 
 ## Conflict Within the Historiography Surrounding Greco-Buddhism
 
-% include typography/aside.html class="right" text="Western scholars in the early 20th century were criticised for their Euro-centric perspective in regard to Greco-Buddhism" %}
+{% include typography/aside.html class="right" text=" Western scholars in the early 20th century were criticised for their Euro-centric perspective in regard to Greco-Buddhism" %}
 
 Discussion around this topic began in the late 19th and early 20th centuries, in a period of European colonialism when some of these archaeological discoveries were made. This caused a lot of the interpretations of western scholars about Greco-Buddhist art to emphasise the Greeks role in this exchange under a racist and Euro-centric lens. In a more modern context these views were criticised by scholars such as Huntington: "He surmised, Indian artists were introduced
 to what he considered a superior sculptural heritage--that of the Greek and
