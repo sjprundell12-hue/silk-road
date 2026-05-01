@@ -2,8 +2,8 @@
 author: Sam Rundell
 title: Head of the Buddha
 layout: base
-header-image: images/han-coin-two-sides-violet.png
-thumbnail: images/han-coin-violet.png
+header-image: images/buddha-banner.jpg
+thumbnail: images/buddha-head-front.jpg
 summary: This sculpture represents the Buddha in a Greek sculptural aesthetic.
 geo: [33.7408, 72.7858]
 placename: Unknown, comes from wider Gandhara
@@ -11,7 +11,7 @@ tags:
   -Sculpture -Buddha -Gandhara
 ---
 
-# The Altarpiece from a Monastery
+# Head of the Buddha
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
 
