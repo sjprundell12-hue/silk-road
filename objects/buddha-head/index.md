@@ -13,20 +13,22 @@ tags:
 
 # Head of the Buddha
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+This object is a sculpture of the Buddha created in a similar style to many Greek scuptures before and after it, this Greek style sculpture of a person who is so synonymous with South and East Asian history and religion makes this sculpture very interesting to study in more detail, especially how it relates to Greco-Buddhist art.
 
 
-## Your First Section Heading
+## The Significance of Cultural Exchange and the Sculpture of the Buddha
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-violet.png"
+caption="An image of the Buddha head. [Source](https://www.metmuseum.org/art/collection/search/38777)"
+image-path="images/buddha-head-front.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+The exchange of artistic expression in Gandhara is a keystone in the making of such unique items such as this sculpture, influence from the Greek world was present in the art in Gandhara as much as Gandhara influenced the Greeks that were there briefly as well as the ones who settled around the area. 
+
+Hellenic influence has been credited in part for the creation of how we picture the Buddhist faith and the Buddha himself.[^1] Other intersting things to spot on this sculpture and other similar ones found nearby is the small bits of paint and paint residue that were found on these sculptures which demonstrates that this artform included expertise in painting as well as the moulding and crafting of the sculptures. 
+
+[^1]: Lythgoe 1913, 134. 
 
 Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
 
