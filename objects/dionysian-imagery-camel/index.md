@@ -30,7 +30,12 @@ The image on the side of the Camel shows a man who is being carried by two other
 
 ## The Importance of the Animal
 
-Animals played a very important role in the silk road. This object depicts a camel, an animal which was used mainly for transporting goods within the silk road economy, what these animals transported along the road ranged from things such as food to important luxury items such as silk. These camels were so useful due to their strength (able to carry about 400 kilograms)[^2] as well as their endurance being able to go for many days without drinking water or eating due to the fat being stored on their backs. 
+Animals played a very important role in the silk road. This object depicts a camel, an animal which was used mainly for transporting goods within the silk road economy, what these animals transported along the road ranged from things such as food to important luxury items such as silk. These camels were so useful due to their strength (able to carry about 400 kilograms)[^2] as well as their endurance being able to go for many days without drinking water or eating due to the fat being 
+stored on their backs. 
+
+{% include typography/aside.html class="right" text=" Animals played a very important role in the silk road." %}
+
+[^2]: Wen 2023, 78.
 
 Transportation played a vital role in the silk road economy and animals such as camels were required to transport these resources from one side of the road to another, this importance is why figures such as this one were created, celebrating the importance of these animals on all silk road cultures.
 
@@ -38,7 +43,7 @@ Transportation played a vital role in the silk road economy and animals such as 
 
 The symbolism on the side of this object can be debated and has been interpreted in different ways by different people since its discovery. The main interpretations include the main figure being the Greek God Dionysus a son of Zeus, God of wine, madness and fertility or to represent Jesus Christ after coming off the cross.[^3] 
 
-[^3]: 
+[^3]: MET museum, 2026.
 
 The Greek mythological links on this object would demonstrate the passing of mythology from Greece into Central and Eastern Asia, showing the level of storytelling that occurred in this area from the Greek armies and settlers after the campaigns of Alexander. 
 
