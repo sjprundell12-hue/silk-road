@@ -2,8 +2,8 @@
 author: Sam Rundell
 title: Fragment of a Indo-Corinthian capital, depicting meditating Buddha
 layout: base
-header-image: images/han-coin-two-sides-violet.png
-thumbnail: images/han-coin-violet.png
+header-image: images/types-capitals.webp
+thumbnail: images/indo-corinthian-capital.jpg
 summary: This Indo-Corinthian capital was an architectural feature, likely part of a building of significance depicts the Buddha sitting among acanthus leaves
 geo: [34.3655, 70.4762]
 placename: Hadda, Nangarhar (Afganistan)
