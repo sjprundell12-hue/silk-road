@@ -57,7 +57,9 @@ These architectural techniques would see their zenith under the Byzantine Empire
 [^3]: Britanica
 
 {% include typography/aside.html class="right" text="
-The Buddhas central positioning in this object demonstrates how central the Buddha is within the art form of Greco-Buddhism, reinforcing the argument against Greek exceptionalism in this form." %}
+The Buddha's central positioning in this object demonstrates how central the Buddha is within the art form of Greco-Buddhism, reinforcing the argument against Greek exceptionalism in this form." %}
+
+These wide architectural influences provide us with an understanding of how adaptive this world was with teh influence of this single form of constrcucting columns extending from modern day Spain to Afganistan, Pakistan and India. 
 
 
 ## Images Can Be Different Widths
