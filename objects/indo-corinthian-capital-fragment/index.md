@@ -59,21 +59,21 @@ These architectural techniques would see their zenith under the Byzantine Empire
 {% include typography/aside.html class="right" text="
 The Buddha's central positioning in this object demonstrates how central the Buddha is within the art form of Greco-Buddhism, reinforcing the argument against Greek exceptionalism in this form." %}
 
-These wide architectural influences provide us with an understanding of how adaptive this world was with teh influence of this single form of constrcucting columns extending from modern day Spain to Afganistan, Pakistan and India. 
+These wide architectural influences provide us with an understanding of how adaptive this world was with the influence of this single form of constrcucting columns extending from modern day Spain to Afganistan, Pakistan and India. 
 
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
+## Adaptation and the Unique Aspects of Gandhara Columns
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+While these columns are widespread the interest here resides in the unique implementation of the Buddha into these creations demonstrating an important religious link to the architecture. No other examples of the columns are as unique in a religious sense and the use of nature surrounding the Buddha in this piece demonstarte a concrete understanding of the Buddhist faith. 
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+Architecture and constuction can be important indicators of cultural exchange as much as any of the other forms and provides insight into how cultures of this time saw as intersting and worth implementing into construction in their own societies. This capital is an important example of this exchange with its Greek and Buddhist themes. 
 
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Britanica, "Aeolic capital" [Britanica](https://www.britannica.com/technology/Aeolic-capital)
+- Britanica, "Byzantine architecture" [Britanica](https://www.britannica.com/topic/Hagia-Sophia)
+- Gilani, Syeda Munazza. 2020. "Acanthus Leaves in Gandhara Art: a Symbol or a Decorative Pattern" Taxila Institute of Asian Civilizations. 
+- Nishad, Ganga Sagar. 2026. "Greco-Buddhist Art: The Symbol of Cultural Syncretism in Indian
+Perspective" GAS Journal of Arts Humanities and Social Sciences. 
