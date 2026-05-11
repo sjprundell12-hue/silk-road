@@ -25,7 +25,7 @@ image-path="images/indo-corinthian-capital.jpg"
 
 An important aspect of this object is its use as an architectural element, this demonstartes how the art form of Greco-Buddhism was wide reaching and the influence of Greek architecture was clearly significant enough for the art form to be incorporated into the desgin of buildings. 
 
-An important part of understanding this influence however is how the main themes of the artwork remains centrally Buddhist, with the important part of this piece being the Buddha at the top resting amongst the leaves. This argument of the core of the art remaining Buddhist is corroborated by Nishad. [^1]
+An important part of understanding this influence however, is how the main themes of the artwork remains centrally Buddhist, with the important part of this piece being the Buddha at the top resting amongst the leaves. This argument of the core of the art remaining Buddhist is corroborated by Nishad. [^1]
 
 [^1]: Nishad 2026, 16.
 
@@ -39,7 +39,7 @@ The central positioning of the Buddha in this piece and his protection demonstra
 {% include images/figure.html
 class="left"
 width="48%"
-caption="Another image of the capital, in colour. [Source](https://en.wikipedia.org/wiki/Indo-Corinthian_capital)"
+caption="Another, similar capital depicting the Buddha. [Source](https://en.wikipedia.org/wiki/Indo-Corinthian_capital)"
 image-path="images/buddha-acanthus-capitol.jpg"
 %}
 
@@ -48,15 +48,17 @@ The Buddha is represented as one with nature, which could not be seen more clear
 The Greek context from the acanthus leaves links closely to the often associated plant life with the Buddha such as lilies and lotus flowers, this demonstrates how the important images of plant life transferred its meaning into a new context with the Buddha. 
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Roman, Greek, Buddhist and Byzantine
+
+The history of these columns is long and dates back to the fourth century BC in Greece before it spread around the Roman Empire with examples found in Tunisia, Italy and Spain all built or influenced by Roman constructions. While the techniques spread west from the Romans so too did they spread east with Greek artisans moving with the Alexandrian conquests. 
+
+These architectural techniques would see their zenith under the Byzantine Empire with significant monuments such as the Hagia Sofia containing these columns. [^3]
+
+[^3]: Britanica
 
 {% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+The Buddhas central positioning in this object demonstrates how central the Buddha is within the art form of Greco-Buddhism, reinforcing the argument against Greek exceptionalism in this form." %}
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
 
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)" image-path="images/han-coin-two-sides-violet.png" %}
