@@ -11,19 +11,17 @@ tags:
   -Architecture -Column -Buddha
 ---
 
-# The Altarpiece from a Monastery
+# The Indo-Corinthian capital with the Buddha
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page.
-
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+This interesting piece of architecture is a very unique find and is a perfect example of how Greek and Buddhist cultures influenced one another, with the base of the architectural influence being Greek/Roman and the design and figure depicted come from Buddhism. This object demonstrates the importance of Architecture and construction within the theme of cultural exchange as well as the continued presence of the Buddha being depicted as a figure in art. 
 
 
 ## Your First Section Heading
-{% include images/figure.html
+{% include images/indo-corinthian-capital.jpg
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://en.wikipedia.org/wiki/File:Eastern_Han_ingot_imprints_with_barbarous_Greek_inscriptions.jpg)"
-image-path="images/han-coin-violet.png"
+caption="Image of the capital, found in Afganistan. [Source](https://digital.library.ucla.edu/catalog/ark:/21198/z1sj7r1r)"
+image-path="images/indo-corinthian-capital.jpg"
 %}
 
 This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
