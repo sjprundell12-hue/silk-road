@@ -16,7 +16,7 @@ tags:
 This interesting piece of architecture is a very unique find and is a perfect example of how Greek and Buddhist cultures influenced one another, with the base of the architectural influence being Greek/Roman and the design and figure depicted come from Buddhism. This object demonstrates the importance of Architecture and construction within the theme of cultural exchange as well as the continued presence of the Buddha being depicted as a figure in art. 
 
 
-## Your First Section Heading
+## History and Architecture
 {% include images/figure.html
 class="right"
 width="48%"
@@ -24,11 +24,11 @@ caption="Image of the capital, found in Afganistan. [Source](https://digital.lib
 image-path="images/indo-corinthian-capital.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+An important aspect of this object is its use as an architectural element, this demonstartes how the art form of Greco-Buddhism was wide reaching and the influence of Greek architecture was clearly significant enough for the art form to be incorporated into the desgin of buildings. 
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+An important part of understanding this influence however is how the main themes of the artwork remains centrally Buddhist, with the important part of this piece being the Buddha at the top resting amongst the leaves. This argument of the core of the art remaining Buddhist is corrobrated by Nishad. [^1]
 
-[^randomthing]:Put your source information here.
+[^1]: Nishad 2026, 16.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
 
