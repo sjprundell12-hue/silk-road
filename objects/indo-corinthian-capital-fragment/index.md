@@ -35,12 +35,17 @@ The significance of the Buddhas placement in the frame of the acanthus leaves wh
 
 The central positioning of the Buddha in this piece and his protection demonstrated by the leaves continues the previosuly discussed emelement of importance that Buddhism has with the adoption of Greek architectural influences
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## The Buddha and Nature 
+{% include images/figure.html
+class="left"
+width="48%"
+caption="Another image of the capital, in colour. [Source](https://en.wikipedia.org/wiki/Indo-Corinthian_capital)"
+image-path="images/buddha-acanthus-capitol.jpg"
+%}
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+The Buddha is represented as one with nature, which could not be seen more clearly in the piece, many of the common associations with the Buddha remain through the portrayals of him in Greco-Buddhist art illustrating how the essence of this important figure remains unaltered by influences from other cultures. 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+The Greek context from the acanthus leaves links closely to the often associated plant life with the Buddha such as lilies and lotus flowers, this demonstrates how the important images of plant life transferred its meaning into a new context with the Buddha. 
 
 
 ## Pull Quotes Add Emphasis
