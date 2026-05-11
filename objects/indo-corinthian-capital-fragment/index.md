@@ -74,6 +74,8 @@ Architecture and constuction can be important indicators of cultural exchange as
 
 - Britanica, "Aeolic capital" [Britanica](https://www.britannica.com/technology/Aeolic-capital)
 - Britanica, "Byzantine architecture" [Britanica](https://www.britannica.com/topic/Hagia-Sophia)
+- 'Fragment of a Indo-Corinthian capital'. [UCLA Library Digital Collections](https://digital.library.ucla.edu/catalog/ark:/21198/z1sj7r1r) 
 - Gilani, Syeda Munazza. 2020. "Acanthus Leaves in Gandhara Art: a Symbol or a Decorative Pattern" Taxila Institute of Asian Civilizations. 
+- 'Indo-Corinthian capital' [Wikipedia](https://en.wikipedia.org/wiki/Indo-Corinthian_capital)
 - Nishad, Ganga Sagar. 2026. "Greco-Buddhist Art: The Symbol of Cultural Syncretism in Indian
 Perspective" GAS Journal of Arts Humanities and Social Sciences. 
