@@ -17,7 +17,7 @@ This interesting piece of architecture is a very unique find and is a perfect ex
 
 
 ## Your First Section Heading
-{% include images/indo-corinthian-capital.jpg
+{% include images/figure.html
 class="right"
 width="48%"
 caption="Image of the capital, found in Afganistan. [Source](https://digital.library.ucla.edu/catalog/ark:/21198/z1sj7r1r)"
