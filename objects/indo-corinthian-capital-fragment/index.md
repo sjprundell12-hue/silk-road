@@ -11,10 +11,9 @@ tags:
   -Architecture -Column -Buddha
 ---
 
-# The Indo-Corinthian capital with the Buddha
+# The Indo-Corinthian Capital with the Buddha
 
 This interesting piece of architecture is a very unique find and is a perfect example of how Greek and Buddhist cultures influenced one another, with the base of the architectural influence being Greek/Roman and the design and figure depicted come from Buddhism. This object demonstrates the importance of Architecture and construction within the theme of cultural exchange as well as the continued presence of the Buddha being depicted as a figure in art. 
-
 
 ## History and Architecture
 {% include images/figure.html
@@ -26,16 +25,15 @@ image-path="images/indo-corinthian-capital.jpg"
 
 An important aspect of this object is its use as an architectural element, this demonstartes how the art form of Greco-Buddhism was wide reaching and the influence of Greek architecture was clearly significant enough for the art form to be incorporated into the desgin of buildings. 
 
-An important part of understanding this influence however is how the main themes of the artwork remains centrally Buddhist, with the important part of this piece being the Buddha at the top resting amongst the leaves. This argument of the core of the art remaining Buddhist is corrobrated by Nishad. [^1]
+An important part of understanding this influence however is how the main themes of the artwork remains centrally Buddhist, with the important part of this piece being the Buddha at the top resting amongst the leaves. This argument of the core of the art remaining Buddhist is corroborated by Nishad. [^1]
 
 [^1]: Nishad 2026, 16.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+The significance of the Buddhas placement in the frame of the acanthus leaves which have been noted and described to have a 'protective element'[^2], leaving the Buddha procted from the outside world to be able to meditate in peace. 
 
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
+[^2]: Gilani 2020, 24
 
-[^anotherrandomthing]:Put your next footnote source information here.
-
+The central positioning of the Buddha in this piece and his protection demonstrated by the leaves continues the previosuly discussed emelement of importance that Buddhism has with the adoption of Greek architectural influences
 
 ## Section Headings Create Visual Breaks
 Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
