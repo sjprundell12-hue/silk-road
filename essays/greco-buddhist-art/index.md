@@ -7,28 +7,28 @@ thumbnail: images/main-image.jpg
 summary: Greco-Buddhist art is an important representation of cultural mixing on the silk road, Greek influence in the South Asian area come from the conquests of Alexander the Great and his successors.
 ---
 
-## Greco-Buddhist Art 
+# Greco-Buddhist Art 
 
-This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page. In the Amaranth documentation for website building, this type of essay is called a **Seedling.**
- 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
+The unique art form of Greco-Buddhism emerged from the cultural exchange between nobles in the Gandhara region and Greek settlers that arrived in the area after the conquests of Alexander the Great, these groups would communicate and learn about eachothers cultures in which the Gandharans would utilise Greek techniques and labour to construct complex artworks. 
 
+One significant accomplishment of this art form is the human representation of the Buddha, the important historian and 'father of Greco-Buddhism' Foucher was the first to claim this as a key researcher in the history of this cultural exchange. 
 
-## Your First Section Heading
+## What was Exchanged?
 {% include images/figure.html
 class="right"
 width="48%"
-caption="This is a right-aligned image that takes up roughly half the page width. Notice how text wraps around it naturally. [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva.jpg"
+caption="This is a metal depiction of the Buddha that takes influence from both Greek and Indian sources. [Source](https://www.metmuseum.org/essays/gandhara)"
+image-path="images/main-image-1.jpg"
 %}
 
-This paragraph sits next to a **right-aligned image**. The ScrollStory layout gives images breathing room—you'll never see cramped text squished against a photo. The spacing and typography are designed to feel more like a magazine than a typical web page.
+The context of this cultural exchange came from military conquests, however, most of the information that was passed between the two was not particularly military related. This demonstrates the idea that other techniques and knowledge serve as more important for other cultures to learn from eachother. An important thing to emphasise here is how the exchange that occurred in Gandhara and the wider area was an exchange, rather than the previously assumed idea by the historiography that the Gandharans only took from the Greeks rather than it being an equal exchange.
 
-Notice the caption below the image includes a clickable source link. This is how you maintain scholarly rigor while keeping the visual design clean.[^randomthing]
+Knowledge that went from the Greeks to the Gandharans includes: diplomatic and political knowldge, development of coinage, atronomy and clothing. 
+While from the Gandharas the Greeks picked up medical knowledge and religious information about Buddhism and allowed Buddhism to become a global religion.[^1]
 
-[^randomthing]:Put your source information here.
+[^1]: Nishad 2026, 16.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Curabitur mauris tortor, elementum non felis id, hendrerit efficitur metus.
+
 
 Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
 
