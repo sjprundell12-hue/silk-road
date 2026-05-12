@@ -9,7 +9,7 @@ summary: Greco-Buddhist art is an important representation of cultural mixing on
 
 # Greco-Buddhist Art 
 
-The unique art form of Greco-Buddhism emerged from the cultural exchange between nobles in the Gandhara region and Greek settlers that arrived in the area after the conquests of Alexander the Great, these groups would communicate and learn about eachothers cultures in which the Gandharans would utilise Greek techniques and labour to construct complex artworks. 
+The unique art form of Greco-Buddhism emerged from the cultural exchange between nobles in the Gandhara region and Greek settlers that arrived in the area after the conquests of Alexander the Great, these groups would communicate and learn about each others cultures in which the Gandharans would utilise Greek techniques and labour to construct complex artworks. 
 
 One significant accomplishment of this art form is the human representation of the Buddha, the important historian and 'father of Greco-Buddhism' Foucher was the first to claim this as a key researcher in the history of this cultural exchange. 
 
@@ -21,18 +21,17 @@ caption="This is a metal depiction of the Buddha that takes influence from both 
 image-path="images/main-image-1.jpg"
 %}
 
-The context of this cultural exchange came from military conquests, however, most of the information that was passed between the two was not particularly military related. This demonstrates the idea that other techniques and knowledge serve as more important for other cultures to learn from eachother. An important thing to emphasise here is how the exchange that occurred in Gandhara and the wider area was an exchange, rather than the previously assumed idea by the historiography that the Gandharans only took from the Greeks rather than it being an equal exchange.
+The context of this cultural exchange came from military conquests, however, most of the information that was passed between the two was not particularly military related. This demonstrates the idea that other techniques and knowledge serve as more important for other cultures to learn from each other. An important thing to emphasise here is how the exchange that occurred in Gandhara and the wider area was an exchange, rather than the previously assumed idea by the historiography that the Gandharans only took from the Greeks rather than it being an equal exchange.
 
-Knowledge that went from the Greeks to the Gandharans includes: diplomatic and political knowldge, development of coinage, atronomy and clothing. 
-While from the Gandharas the Greeks picked up medical knowledge and religious information about Buddhism and allowed Buddhism to become a global religion.[^1]
+Knowledge that went from the Greeks to the Gandharans includes: diplomatic and political knowledge, development of coinage, astronomy and clothing. 
+While from the Gandhara's the Greeks picked up medical knowledge and religious information about Buddhism and allowed Buddhism to become a global religion.[^1]
 
 [^1]: Nishad 2026, 16.
 
+These exchanges help to emphasise the equal exchange that happened as a result of the Greeks and Gandharans being geographically close together, many of these important aspects are visible through the Greco-Buddhist art form, namely religion, diplomatic knowledge and astrology.
 
-
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan.[^anotherrandomthing]
-
-[^anotherrandomthing]:Put your next footnote source information here.
+{% include typography/aside.html class="right" text="
+Important concepts that were exchanged by both sides include: religion, diplomacy and medical knowledge." %}
 
 
 ## Section Headings Create Visual Breaks
