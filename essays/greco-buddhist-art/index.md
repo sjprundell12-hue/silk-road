@@ -30,15 +30,18 @@ While from the Gandhara's the Greeks picked up medical knowledge and religious i
 
 These exchanges help to emphasise the equal exchange that happened as a result of the Greeks and Gandharans being geographically close together, many of these important aspects are visible through the Greco-Buddhist art form, namely religion, diplomatic knowledge and astrology.
 
-> "Important concepts that were exchanged by both sides include: religion, diplomacy and medical knowledge."
+> Important concepts that were exchanged by both sides include: religion, diplomacy and medical knowledge.
 
 
-## Section Headings Create Visual Breaks
-Each section heading (marked with `##` in Markdown) creates a clear visual break in your essay. This helps readers navigate long-form content and gives you natural places to shift topics or introduce new ideas.
+## The Main Proponents 
 
-**Why this matters:** Breaking essays into clear sections makes writing more manageable. Write one section at a time, preview it, then move to the next. No need to tackle the entire essay at once.
+This art form saw wide use throughout Gandhara for a few centuries after Alexander and continued to play a part in the evolution of artwork in the region with adoption of Greek techniques being seen in places such as Iran as well. 
 
-Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis.
+An important dynasty that would elevate the production of a large amount of this art was the Kushan dynasty, who would sponsor a number of constructions featuring the techniques and other artisans to create artworks with Greek inspirations. The effective manifacturing that was set up by the Kushans is argued to have outscaled the production that was seen in the Greco-Roman constructions.[^2]
+
+[^2]: Vitale 2024, 18.
+
+This demonstrates the industrial effectiveness of these dynasties and sheds more doubt on the claims that the Greeks and Romans served as superior empires who the Gandharans could only seek to learn from.
 
 
 ## Pull Quotes Add Emphasis
