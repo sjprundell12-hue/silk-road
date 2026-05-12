@@ -30,8 +30,7 @@ While from the Gandhara's the Greeks picked up medical knowledge and religious i
 
 These exchanges help to emphasise the equal exchange that happened as a result of the Greeks and Gandharans being geographically close together, many of these important aspects are visible through the Greco-Buddhist art form, namely religion, diplomatic knowledge and astrology.
 
-{% include typography/aside.html class="middle" text="
-Important concepts that were exchanged by both sides include: religion, diplomacy and medical knowledge." %}
+> "Important concepts that were exchanged by both sides include: religion, diplomacy and medical knowledge."
 
 
 ## Section Headings Create Visual Breaks
