@@ -2,12 +2,12 @@
 author: Sam Rundell
 title: Greco-Buddhist Art
 layout: base
-header-image: images/ota-gate-khiva2.jpg
-thumbnail: images/ota-gate-demo-gray.png
+header-image: images/buddha-image.jpg
+thumbnail: images/main-image.jpg
 summary: Greco-Buddhist art is an important representation of cultural mixing on the silk road, Greek influence in the South Asian area come from the conquests of Alexander the Great and his successors.
 ---
 
-Greco-Buddhist Art 
+## Greco-Buddhist Art 
 
 This essay demonstrates the **simplest approach**. It uses only basic components: section headings, images with captions, pull quotes, and footnotes. No background switching, no side-scrolling—just straightforward digital storytelling that's more visually engaging than a standard web page. In the Amaranth documentation for website building, this type of essay is called a **Seedling.**
  
