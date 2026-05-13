@@ -37,7 +37,7 @@ These exchanges help to emphasise the equal exchange that happened as a result o
 
 This art form saw wide use throughout Gandhara for a few centuries after Alexander and continued to play a part in the evolution of artwork in the region with adoption of Greek techniques being seen in places such as Iran as well. 
 
-An important dynasty that would elevate the production of a large amount of this art was the Kushan dynasty, who would sponsor a number of constructions featuring the techniques and other artisans to create artworks with Greek inspirations. The effective manifacturing that was set up by the Kushans is argued to have outscaled the production that was seen in the Greco-Roman constructions.[^2]
+An important dynasty that would elevate the production of a large amount of this art was the Kushan dynasty, who would sponsor a number of constructions featuring the techniques and other artisans to create artworks with Greek inspirations. The effective manufacturing that was set up by the Kushans is argued to have outscaled the production that was seen in the Greco-Roman constructions.[^2]
 
 [^2]: Vitale 2024, 18.
 
@@ -73,49 +73,23 @@ caption="'An image showing a statue of Alexander the Great, from the third centu
 image-path="images/alexander.jpg"
 %}
 
-The background of Greco-Buddhism is placed in the context of the Alexandrian conquests of the fourth century BC when the famous conquerer's armies advanced from Greece all the way to the borders of modern day India. These conquests brought with them a number of Greek successor states after the fall of the main empire, it was these states that would see the vast majority of the cultural exchange. 
+The background of Greco-Buddhism is placed in the context of the Alexandrian conquests of the fourth century BC when the famous conqueror's armies advanced from Greece all the way to the borders of modern-day India. These conquests brought with them a number of Greek successor states after the fall of the main empire, it was these states that would see the vast majority of the cultural exchange. 
 
-The impacts that Alexander the Great had on the emergance of Greco-Buddhism cannot be understated, his military manouvers allowed for the arrival of Greek artisans who would be used by future Indian rulers to create artworks that featured Greek inspirations. 
+The impacts that Alexander the Great had on the emergence of Greco-Buddhism cannot be understated, his military manoeuvres allowed for the arrival of Greek artisans who would be used by future Indian rulers to create artworks that featured Greek inspirations. 
 
-One of these important rulers was Menander who was one of the most important Indo-Greek kings and paved the way for further spread of Greek influence in the region of Gandhara. Menanders significance is discussed frequently by Kubica and his role as a keystone for this cultural spread especially in the arts is highlighted throughout her book. 
-
-Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
+One of these important rulers was Menander who was one of the most important Indo-Greek kings and paved the way for further spread of Greek influence in the region of Gandhara. Menander's significance is discussed frequently by Kubica and his role as a keystone for this cultural spread especially in the arts is highlighted throughout her book. 
 
 
-## The Rhythm of an Essay on a Webpage
-By now you've scrolled through several sections and noticed the **rhythm** of a ScrollStory: heading, text, image, text, pull quote, text. This creates a visual cadence that keeps readers engaged without overwhelming them.
+## Conclusion and What can be Learned from the Historiography
 
-**For your own essay:** Think about pacing. Where do readers need a visual break? Where should an image reinforce your argument? When does a pull quote emphasize a key point? These decisions make the difference between a wall of text and an engaging narrative.
+The art created from Greco-Buddhism helps to demonstrate the deep history of the region of Gandhara and has important ties to themes of military and religious history through its links to Alexander the Great and the development in understanding the history of Buddhism. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pretium, nibh vel posuere pretium, neque ipsum maximus libero, ac maximus quam ante sit amet dolor. Integer pharetra semper sem sed sagittis. Aliquam in sapien mauris. Aliquam erat volutpat.
+As the historiography of this important art form developed, more histoirans have become critical of the previous interpretaions specifically the over-emphasis of Greek cultural influence over the region which historians such as Foucher proposed. In a more modern context these opinions have been critised by a number of Indian historians and Archaeologists and modern historians in the west who critise Foucher for not giving proper credit to the exchange that occured between the groups which would be seen later throughout the whole of the silk road. 
 
-Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed sem commodo, in rhoncus orci sagittis. Duis in sagittis arcu. Donec dictum aliquam congue. Nulla varius ipsum vitae nibh dapibus, et tincidunt turpis gravida.
-
-
-## Block Quotes for Extended Quotations
-Sed efficitur leo in magna pretium, euismod malesuada risus interdum. Proin sed libero et enim pulvinar convallis non eget est. Sed ultrices dui vitae enim semper accumsan. Duis quis aliquam nulla. Aenean scelerisque lacus vel pretium viverra.
-
-> This is a block quote, created by putting a `>` symbol before your text. Use these for extended quotations from primary sources, scholarly works, or historical documents. They're visually distinct from pull quotes—block quotes span the full text width, while pull quotes float to the side.
-
-Block quotes work well when you want to quote an entire paragraph or passage, while pull quotes are better for short, punchy excerpts you want to highlight visually.
-
-
-## What You've Learned So Far
-If you can create this Seedling essay, you can:
-- Structure content with section headings
-- Add images with captions and source links
-- Include footnotes for citations
-- Use pull quotes for emphasis
-- Format block quotes for extended quotations
-- Control image sizes and placement
-
-**That's enough to create compelling digital scholarship.** The Sapling and Forest essays add more sophisticated features, but this foundation works for most student projects and many professional ones too.
-
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula.
-
+> "Foucher belonged to a generation that intensely admired the Hellenised aspect of art. The western patterns found in this art style appeased European scholars" - Aldrovandi 2005, 308.
 ---
 
 ## Bibliography
 
-- Lastname, Firstname. “Title of the Article.” *Title of the Journal* 9, no. 9 (1999): 999–999.
+- 
 - Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
