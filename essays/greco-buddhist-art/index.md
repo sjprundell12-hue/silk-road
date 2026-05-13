@@ -44,15 +44,26 @@ An important dynasty that would elevate the production of a large amount of this
 This demonstrates the industrial effectiveness of these dynasties and sheds more doubt on the claims that the Greeks and Romans served as superior empires who the Gandharans could only seek to learn from.
 
 
-## Pull Quotes Add Emphasis
-Pellentesque viverra hendrerit sapien eu consequat. Curabitur leo ante, vestibulum a tincidunt eget, placerat eu nunc. Donec ut sem mi. Vivamus commodo nec sem eget pretium. Nulla ullamcorper volutpat venenatis.
+## Images of the Buddha
 
-{% include typography/aside.html class="right" text="
-This is a pull quote—a design element that highlights important text or quotations. It appears as a semi-transparent box to the right of your main text. Use these sparingly for maximum impact." %}
+As discussed previously this art form saw the emergence of the Buddha being depicted in human form where before the artistic replications of the Buddha were purely spiritual through the images of a lotus flower or Bodhi tree. [^3]
 
-The pull quote you just saw is created with a simple `include` command in Markdown. It's one of many reusable components in Xanthan. You can put important quotes, key statistics, or memorable phrases in these boxes to create visual interest and emphasize crucial points.
+[^3]: Nishad 2026, 15.
 
-Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend lectus in bibendum elementum. Vivamus ut velit dignissim, cursus libero nec, commodo orci. Morbi lacus metus, posuere ut pretium ac, malesuada id ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed consequat, lacus id blandit ornare, mi nisi rutrum ante, vitae dignissim mauris nisl mattis nisl.
+{% include images/figure.html
+class="left"
+width="48%"
+caption="'Seated Buddha' Is an example of a Greek inspired Buddha from the first century AD. [Source](https://www.metmuseum.org/essays/gandhara)"
+image-path="images/main-image.jpg"
+%}
+
+Main inspirations for the actual sculptures of the Buddha came from the way the curls in his hair were represented, his jewellery and clothing all also obviously contained influences from Greek art such as statues of Apollo. [^4]
+
+[^4]: Nishad 2026, 16. 
+
+This lack of representation for theological figures is described as aniconism, important figures in the historiography such as Alfred Foucher followed the belief that Buddhism before the arrival of Greek artisans was purely aniconist. An important scholar that explains Buddhist aniconism before the arrival of the Greeks is Huntington, she discusses the historiography in depth and counters the previous aniconistic assumptions by bringing up pre-Kusan examples of the Buddha being depicted in an anthropomorphic manner.  
+
+
 
 ## Images Can Be Different Widths
 {% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content.  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
