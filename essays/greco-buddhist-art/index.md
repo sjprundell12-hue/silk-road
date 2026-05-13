@@ -64,14 +64,20 @@ Main inspirations for the actual sculptures of the Buddha came from the way the 
 This lack of representation for theological figures is described as aniconism, important figures in the historiography such as Alfred Foucher followed the belief that Buddhism before the arrival of Greek artisans was purely aniconist. An important scholar that explains Buddhist aniconism before the arrival of the Greeks is Huntington, she discusses the historiography in depth and counters the previous aniconistic assumptions by bringing up pre-Kusan examples of the Buddha being depicted in an anthropomorphic manner.  
 
 
+## A Legacy of Alexander
 
-## Images Can Be Different Widths
-{% include images/figure.html class="right" width="60%" caption="This image is set to 60% width instead of 48%, giving it more prominence. You can adjust image widths to suit your content.  [Source](https://commons.wikimedia.org/wiki/File:Khiva_town_of_The_Silk_Road_(%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%BD,_%D0%98%D1%87%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BB%D0%B0,_%D0%A5%D0%B8%D0%B2%D0%B0).jpg)"
-image-path="images/ota-gate-khiva.jpg" %}
+{% include images/figure.html
+class="left"
+width="48%"
+caption="'An image showing a statue of Alexander the Great, from the third century BC now located in Denmark. [Source](https://en.wikipedia.org/wiki/Alexander_the_Great#/media/File:Alexander_the_Great_Ny_Carlsberg_Glyptotek_IN574_n1.jpg)"
+image-path="images/alexander.jpg"
+%}
 
-The image to the right is **wider than the previous one** (60% instead of 48%). You control this with the `width` parameter in the image code. Want a small image? Use 30%. Want something that dominates? Try 70%.
+The background of Greco-Buddhism is placed in the context of the Alexandrian conquests of the fourth century BC when the famous conquerer's armies advanced from Greece all the way to the borders of modern day India. These conquests brought with them a number of Greek successor states after the fall of the main empire, it was these states that would see the vast majority of the cultural exchange. 
 
-Images can also be left-aligned (use `class="left"`) or centered full-width (we'll show that in more advanced essays). For Seedling level, right-aligned images at 48-60% width work well for most purposes.
+The impacts that Alexander the Great had on the emergance of Greco-Buddhism cannot be understated, his military manouvers allowed for the arrival of Greek artisans who would be used by future Indian rulers to create artworks that featured Greek inspirations. 
+
+One of these important rulers was Menander who was one of the most important Indo-Greek kings and paved the way for further spread of Greek influence in the region of Gandhara. Menanders significance is discussed frequently by Kubica and his role as a keystone for this cultural spread especially in the arts is highlighted throughout her book. 
 
 Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque.
 
