@@ -80,16 +80,23 @@ The impacts that Alexander the Great had on the emergence of Greco-Buddhism cann
 One of these important rulers was Menander who was one of the most important Indo-Greek kings and paved the way for further spread of Greek influence in the region of Gandhara. Menander's significance is discussed frequently by Kubica and his role as a keystone for this cultural spread especially in the arts is highlighted throughout her book. 
 
 
-## Conclusion and What can be Learned from the Historiography
+## Conclusion and what can be Learned from the Historiography
 
 The art created from Greco-Buddhism helps to demonstrate the deep history of the region of Gandhara and has important ties to themes of military and religious history through its links to Alexander the Great and the development in understanding the history of Buddhism. 
 
-As the historiography of this important art form developed, more histoirans have become critical of the previous interpretaions specifically the over-emphasis of Greek cultural influence over the region which historians such as Foucher proposed. In a more modern context these opinions have been critised by a number of Indian historians and Archaeologists and modern historians in the west who critise Foucher for not giving proper credit to the exchange that occured between the groups which would be seen later throughout the whole of the silk road. 
+As the historiography of this important art form developed, more historians have become critical of the previous interpretations specifically the over-emphasis of Greek cultural influence over the region which historians such as Foucher proposed. In a more modern context these opinions have been criticised by a number of Indian historians and Archaeologists and modern historians in the west who criticise Foucher for not giving proper credit to the exchange that occurred between the groups which would be seen later throughout the whole of the silk road. 
 
 > "Foucher belonged to a generation that intensely admired the Hellenised aspect of art. The western patterns found in this art style appeased European scholars" - Aldrovandi 2005, 308.
 ---
 
 ## Bibliography
 
-- 
-- Lastname, Firstname. *Title of the Book*. Publisher Press, 1999.
+- Aldrovandi, Cibele, and Elaine Hirata. “Buddhism, Pax Kushana and Greco-Roman Motifs: Pattern and Purpose in Gandharan Iconography.” Antiquity: Cambridge University Press 79 (304) (2005.): 306–15. https://doi.org/10.1017/s0003598x00114103.
+- "Buddha image" [Athens Theravada Centre](https://www.theravada.gr/en/about-buddhism/hellenism-and-buddhism-greco-buddhism/)
+- Burgess, James. “Greco-Buddhist Sculpture.” The Metropolitan Museum of Art Bulletin 8 (6): (1913) 133-136 https://doi.org/10.2307/3252930
+- Dimou, Nikos.“The Two ‘Greek Buddhas.’” Conatus 7 (2) (2022): 79–86. https://doi.org/10.12681/cjp.25939.
+- Huntington, S. L. 1990. “Early Buddhist Art and the Theory of Aniconism.”
+- Kubica, Olga. Greco-Buddhist Relations in the Hellenistic Far East. (Taylor & Francis, 2023)
+- Nishad, Ganga. “Greco-Buddhist Art: The Symbol of Cultural Syncretism in Indian Perspective.” GAS Journal of Arts Humanities and Social Sciences (GASJAHSS) 4 (1) (2026): 12–19. https://doi.org/10.5281/zenodo.18113332.
+- "Statue of Alexander the Great" [Wikipedia](https://en.wikipedia.org/wiki/Alexander_the_Great#/media/File:Alexander_the_Great_Ny_Carlsberg_Glyptotek_IN574_n1.jpg)
+- Vitale, Alessandra, Michael J Redding, and Farah A Khan. “Comparative Study of Gandhara and Greco-Roman Art Traditions.” Pakistan Journal of History and Civilization 1 (1) (2022): 13–20. https://doi.org/10.71465/pjhc33.
